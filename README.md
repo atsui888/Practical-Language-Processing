@@ -17,9 +17,9 @@ The objectives of this project are to use PLP on the bank dialog dataset to:
 
 And measured using these Performance Metrics
 -	Customer Sentiment
-o	Overall
-o	By Product and Service
-o	By Channel
+  - Overall
+  - By Product and Service
+  - By Channel
 -	Was Intent Achieved
 -	Number of Turns taken to achieve intent
 
