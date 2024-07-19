@@ -3,7 +3,7 @@ Customer Service Center - Dashboard and Chatbot: Masters of Technology in Artifi
 
 <b>Proposal Pending approval by Dr Fan ZhenZhen</b>
 
-<b><i>Draft Proposal below</b></i><br>
+<b><i>Draft Proposal - WIP</b></i><br>
 <h1>Overview</h1>
 
 The client is a 24 by 7 call centre for a bank that has customer service officers and a chatbot to handle customer queries for corporate and retail consumers. They have noticed an increasing trend of negative feedback on their customer service in social media over the last few months. Hence, they would like to try using Practical Language Processing (PLP) techniques to augment their existing reporting methodology.
@@ -23,3 +23,14 @@ And measured using these Performance Metrics
 By implementing this comprehensive NLP and NLU-based analysis system, the bank will be able to use a data-driven approach to gain deep insights into customer satisfaction, identify areas for improvement, and proactively address emerging trends and adapt quickly to changing customer needs and expectations.
 
 Notes: The client is fictitious, but this is a realistic use case for a bank’s call centre and the dataset used is specific to the banking domain. 
+
+<h1>Design</h1>
+<h2>Solution Blueprint</h2>
+![PLP Solution Blueprint drawio](https://github.com/user-attachments/assets/5b65b087-ece0-4656-a8b6-e830628f7a5c)
+
+
+<h2>System Architecture - MVP</h2>
+![PLP Technical Architecture_MVP drawio](https://github.com/user-attachments/assets/35e22555-554b-4947-b0ab-1ac40d6b24e4)
+
+
+<b><i>End of Draft Proposal - WIP</b></i>
