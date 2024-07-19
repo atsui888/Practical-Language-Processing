@@ -28,7 +28,7 @@ Notes: The client is fictitious, but this is a realistic use case for a bank’s
 
 <h1>Design</h1>
 <h2>Solution Blueprint</h2>
-![image](https://github.com/user-attachments/assets/3c3ca624-e403-4876-9410-67b9c5f6045a)
+
 
 
 
