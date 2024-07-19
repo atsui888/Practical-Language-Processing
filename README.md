@@ -16,10 +16,7 @@ The objectives of this project are to use PLP on the bank dialog dataset to:
 -	Optional: The Dashboard supports a text and speech conversational user interface
 
 And measured using these Performance Metrics
--	Customer Sentiment
-  -	Overall
-  - By Product and Service
-  - By Channel
+-	Customer Sentiment: Overall and combination ["Product", "Service", "Channel"]
 -	Was Intent Achieved
 -	Number of Turns taken to achieve intent
 
