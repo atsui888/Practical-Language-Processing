@@ -32,9 +32,10 @@ Notes: The client is fictitious, but this is a realistic use case for a bank’s
 ![PLP Solution Blueprint drawio](https://github.com/user-attachments/assets/5e267ecb-fd49-4108-8459-54bdd61ccc8b)
 
 
-
+<br>
 <h2>System Architecture - MVP</h2>
 
+![PLP Technical Architecture_MVP drawio](https://github.com/user-attachments/assets/6830c6ab-69f1-4dc6-ba31-aef9768e931e)
 
-
+<br>
 <b><i>End of Draft Proposal - WIP</b></i>
