@@ -29,6 +29,7 @@ Notes: The client is fictitious, but this is a realistic use case for a bank’s
 <h1>Design</h1>
 <h2>Solution Blueprint</h2>
 
+![PLP Solution Blueprint drawio](https://github.com/user-attachments/assets/5e267ecb-fd49-4108-8459-54bdd61ccc8b)
 
 
 
