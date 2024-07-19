@@ -1,7 +1,7 @@
 # Practical-Language-Processing
-Customer Service Center - Dashboard and Chatbot: 
-Masters of Technology in Artificial Intelligence (National University of Singapore - ISS) 
-Practice Module 4
+Customer Service Center - Dashboard and Chatbot:<br> 
+Masters of Technology in Artificial Intelligence (National University of Singapore - ISS)<br> 
+Practice Module 4<br>
 
 <b>Proposal Pending approval by Dr Fan ZhenZhen</b>
 
