@@ -36,7 +36,8 @@ Notes: The client is fictitious, but this is a realistic use case for a bank’s
 <br>
 <h2>System Architecture - MVP</h2>
 
-![PLP Technical Architecture_MVP drawio](https://github.com/user-attachments/assets/6830c6ab-69f1-4dc6-ba31-aef9768e931e)
+![PLP Technical Architecture_MVP_halfSize](https://github.com/user-attachments/assets/9f28a841-cb2f-4b63-b2c0-b5de1e06eacf)
+
 
 <br>
 <b><i>End of Draft Proposal - WIP</b></i>
