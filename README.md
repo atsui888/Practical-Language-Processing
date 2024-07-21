@@ -17,11 +17,6 @@ The objectives of this project are to use PLP on the bank dialog dataset to:
 -	Provide actionable insights to maintain and enhance customer service ratings in a dashboard. Real-time data feed into the dashboard is not in scope for this project.
 -	Optional: The Dashboard supports a text and speech conversational user interface
 
-And measured using these Performance Metrics
--	Customer Sentiment: Overall and combination ["Product", "Service", "Channel"]
--	Was Intent Achieved
--	Number of Turns taken to achieve intent
-
 By implementing this comprehensive NLP and NLU-based analysis system, the bank will be able to use a data-driven approach to gain deep insights into customer satisfaction, identify areas for improvement, and proactively address emerging trends and adapt quickly to changing customer needs and expectations.
 
 Notes: The client is fictitious, but this is a realistic use case for a bank’s call centre and the dataset used is specific to the banking domain. As banking datasets are limited, synthetic data generation techniques will be used in conjunction with limited human annotation.
