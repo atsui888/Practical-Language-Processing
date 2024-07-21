@@ -15,7 +15,7 @@ The objectives of this project are to use PLP on the bank dialog dataset to:
 -	Identify areas of excellence
 -	Identify areas needing improvement
 -	Provide dashboard of actionable insights
--	Dashboard to include both GUI and a text conversational chatbot
+-	Dashboard to include both GUI and a Text Chatbot
 
 By implementing this comprehensive NLP and NLU-based analysis system, the bank will be able to use a data-driven approach to gain deep insights into customer satisfaction, identify areas for improvement, and proactively address emerging trends and adapt quickly to changing customer needs and expectations.
 
