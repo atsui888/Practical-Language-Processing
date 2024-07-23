@@ -25,6 +25,7 @@ Notes: The client is fictitious, but this is a realistic use case for a bank’s
 
 ![PLP Solution Blueprint drawio](https://github.com/user-attachments/assets/15ba3ef4-6468-427e-bbe1-7c5f1c5cdf6e)
 
+![PLP Technical Architecture_MVP_halfSize](https://github.com/user-attachments/assets/f4e0e2bd-cc37-4109-b7f5-f4b4e27ad835)
 
 <br>
 <h2>System Architecture - MVP</h2>
