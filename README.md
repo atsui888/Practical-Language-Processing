@@ -8,16 +8,14 @@ Practice Module 4<br>
 <b><i>Draft Proposal - WIP</b></i><br>
 <h1>Overview</h1>
 
-The client is a 24 by 7 call centre for a bank that has customer service officers and a chatbot to handle customer queries for corporate and retail consumers. They have noticed an increasing trend of negative feedback on their customer service in social media over the last few months. Hence, they would like to try using Practical Language Processing (PLP) techniques to augment their existing reporting methodology.
-
-The objectives of this project are to use PLP on the bank dialog dataset to:
+The client is a 24 by 7 call centre for a bank that has customer service officers and a chatbot to handle customer queries for corporate and retail consumers. They have noticed an increasing trend of negative feedback on their customer service in social media over the last few months. Hence, they wish to use Practical Language Processing (PLP) techniques to augment their existing reporting methodology for the following objectives:
 -	Assess customer satisfaction levels
 -	Identify areas of excellence
 -	Identify areas needing improvement
 -	Provide dashboard of actionable insights
 -	Dashboard to include both GUI and a Text Chatbot
 
-By implementing this comprehensive NLP and NLU-based analysis system, the bank will be able to use a data-driven approach to gain deep insights into customer satisfaction, identify areas for improvement, and proactively address emerging trends and adapt quickly to changing customer needs and expectations.
+By implementing this comprehensive NLP and NLU-based analysis system on their customer interaction dialog data, the bank will be able to use a data-driven approach to gain deep insights into customer satisfaction, identify areas for improvement, and proactively address emerging trends and adapt quickly to changing customer needs and expectations.
 
 Notes: The client is fictitious, but this is a realistic use case for a bank’s call centre. The dataset used is relevant to the banking domain. As open-source banking datasets are limited, synthetic data generation techniques will be used as well as limited human annotation.
 
