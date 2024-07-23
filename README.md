@@ -29,9 +29,7 @@ Notes: The client is fictitious, but this is a realistic use case for a bank’s
 <br>
 <h2>System Architecture - MVP</h2>
 
-![PLP Technical Architecture_MVP_halfSize](https://github.com/user-attachments/assets/6412ed30-ac9d-497a-b322-5300a7f4906d)
-
-
+![PLP Technical Architecture_MVP_halfSize](https://github.com/user-attachments/assets/3d03e65a-b488-4293-9962-096e81edcdd2)
 
 
 
