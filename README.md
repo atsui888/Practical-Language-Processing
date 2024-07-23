@@ -9,10 +9,10 @@ Practice Module 4<br>
 <h1>Overview</h1>
 
 The client is a 24 by 7 call centre for a bank that has customer service officers and a chatbot to handle customer queries for corporate and retail consumers. They have noticed an increasing trend of negative feedback on their customer service in social media over the last few months. Hence, they wish to use Practical Language Processing (PLP) techniques to augment their existing reporting methodology for the following objectives:
--	Assess customer satisfaction levels
--	Identify areas of excellence
--	Identify areas needing improvement
--	Provide dashboard of actionable insights
+-	Assess Customer Satisfaction
+-	Identify Areas they are doing well
+-	Identify Areas requiring improvement
+-	Provide dashboard of Actionable Insights
 -	Dashboard to include both GUI and a Text Chatbot
 
 By implementing this comprehensive NLP and NLU-based analysis system on their customer interaction dialog data, the bank will be able to use a data-driven approach to gain deep insights into customer satisfaction, identify areas for improvement, and proactively address emerging trends and adapt quickly to changing customer needs and expectations.
