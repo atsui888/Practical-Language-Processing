@@ -1,5 +1,5 @@
 # Practical-Language-Processing
-Customer Service Center - Dashboard and Chatbot:<br> 
+Boosting Customer Satisfaction via Practical Language Processing on Bank Call Centre Customer Dialog Data. :<br> 
 Masters of Technology in Artificial Intelligence (National University of Singapore - ISS)<br> 
 Practice Module 4<br>
 
