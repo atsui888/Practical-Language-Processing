@@ -1,5 +1,5 @@
 # Practical-Language-Processing
-## Boosting Customer Satisfaction via Practical Language Processing on Bank Call Centre Customer Dialog Data:<br> 
+<b>Boosting Customer Satisfaction via Practical Language Processing on Bank Call Centre Customer Dialog Data</b><br> 
 Masters of Technology in Artificial Intelligence (National University of Singapore - ISS)<br> 
 Practice Module 4 (WIP)<br>
 
