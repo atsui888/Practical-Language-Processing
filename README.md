@@ -14,7 +14,6 @@ The client is a 24 by 7 call centre for a bank that has customer service officer
 
 By implementing this comprehensive NLP and NLU-based analysis system on their customer interaction dialog data, the bank will be able to use a data-driven approach to gain deep insights into customer satisfaction, identify areas for improvement, and proactively address emerging trends and adapt quickly to changing customer needs and expectations.
 
-Notes: The client is fictitious, but this is a realistic use case for a bank’s call centre. The dataset used is relevant to the banking domain. As open-source banking datasets are limited, synthetic data generation techniques will be used as well as limited human annotation.
 
 <h1>Design</h1>
 <h2>Solution Blueprint</h2>
