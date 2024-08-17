@@ -3,9 +3,6 @@ Boosting Customer Satisfaction via Practical Language Processing on Bank Call Ce
 Masters of Technology in Artificial Intelligence (National University of Singapore - ISS)<br> 
 Practice Module 4<br>
 
-<b>Proposal Pending approval by Dr Fan ZhenZhen</b>
-
-<b><i>Draft Proposal - WIP</b></i><br>
 <h1>Overview</h1>
 
 The client is a 24 by 7 call centre for a bank that has customer service officers and a chatbot to handle customer queries for corporate and retail consumers. They have noticed an increasing trend of negative feedback on their customer service in social media over the last few months. Hence, they wish to use Practical Language Processing (PLP) techniques to augment their existing reporting methodology for the following objectives:
