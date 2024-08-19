@@ -31,13 +31,12 @@ emerging issues and adapt quickly to changing customer needs and expectations.
 
 
 <h2>Dataset Preparation</h2>
-![Dataset Flow drawio](https://github.com/user-attachments/assets/3fc1cb2f-549d-4b45-881a-ad7788ce6617)
+
 
 
 
 <br>
 <h2>System Architecture - MVP</h2>
-![PLP Technical Architecture_MVP_halfSize](https://github.com/user-attachments/assets/cd5c9b42-dc27-4568-9abc-1e43a3f4fa3e)
 
 
 
