@@ -4,19 +4,14 @@ Masters of Technology in Artificial Intelligence (National University of Singapo
 Practice Module 4 (WIP)<br>
 
 <h1>Overview</h1>
-Over the last few years, the bank has been executing its strategy of customer centricity and it 
-has been rewarded with excellent financial results and industry accolades. To monitor the 
-success of this strategy, the bank utilises 3rd party agencies and internal staƯ to monitor 
-customer satisfaction levels. <br>
+Over the last few years, the bank has been executing its strategy of customer centricity and it has been rewarded with excellent financial results and industry accolades. To monitor the 
+success of this strategy, the bank utilises 3rd party agencies and internal staff to monitor customer satisfaction levels. <br>
 
-The 3rd party agencies claim to have highly eƯective proprietary methods which the bank does 
-not have access to. Within the bank, the categorization and tabulation of customer satisfaction 
-levels is performed manually, with results documented on Excel spreadsheets. This laborious 
-process is error-prone and hinders the generation of timely customer satisfaction updates, 
+The 3rd party agencies claim to have highly eƯective proprietary methods which the bank does not have access to. Within the bank, the categorization and tabulation of customer satisfaction 
+levels is performed manually, with results documented on Excel spreadsheets. This laborious process is error-prone and hinders the generation of timely customer satisfaction updates, 
 typically limited to a quarterly frequency. <br>
 
-Hence, management would like to try using Practical Language Processing (PLP) techniques on 
-customer dialog data to: 
+Hence, management would like to try using Practical Language Processing (PLP) techniques on customer dialog data to: 
 - Automate the manual process of monitoring customer satisfaction levels. 
 - Identify areas where the bank is doing well or not 
 - Validate the accuracy of the existing customer satisfaction monitoring services.
