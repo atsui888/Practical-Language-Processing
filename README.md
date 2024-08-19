@@ -37,9 +37,6 @@ emerging issues and adapt quickly to changing customer needs and expectations.
 <h2>System Architecture - MVP</h2>
 ![PLP Technical Architecture_MVP_halfSize](https://github.com/user-attachments/assets/db0ebbfe-360d-40e6-835b-39e671c66bd6)  
 
-
-
-
 <br>
 <b>Work-in-progress</b> will be updated shortly
 <br>
