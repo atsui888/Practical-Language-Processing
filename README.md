@@ -29,9 +29,6 @@ By implementing this comprehensive NLP and NLU-based analysis system on their cu
 
 <br>
 <h2>System Architecture - MVP</h2>
-
-<b>Work-in-progress</b> will be updated shortly
-
 ![PLP Technical Architecture_MVP_halfSize](https://github.com/user-attachments/assets/4ad80282-05ed-4aec-a115-cbad88b3ee41)
 
 
@@ -39,4 +36,5 @@ By implementing this comprehensive NLP and NLU-based analysis system on their cu
 
 
 <br>
-
+<b>Work-in-progress</b> will be updated shortly
+<br>
