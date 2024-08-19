@@ -4,33 +4,45 @@ Masters of Technology in Artificial Intelligence (National University of Singapo
 Practice Module 4 (WIP)<br>
 
 <h1>Overview</h1>
+Over the last few years, the bank has been executing its strategy of customer centricity and it 
+has been rewarded with excellent financial results and industry accolades. To monitor the 
+success of this strategy, the bank utilises 3rd party agencies and internal staƯ to monitor 
+customer satisfaction levels. <br>
 
-The client is a 24 by 7 call centre for a bank that has customer service officers and a chatbot to handle customer queries for corporate and retail consumers. They have noticed an increasing trend of negative feedback on their customer service in social media over the last few months. Hence, they wish to use Practical Language Processing (PLP) techniques to augment their existing reporting methodology for the following objectives:
--	Assess Customer Satisfaction
--	Identify Areas they are doing well
--	Identify Areas requiring improvement
--	Provide dashboard of Actionable Insights
--	Dashboard to include both GUI and a Text Chatbot
+The 3rd party agencies claim to have highly eƯective proprietary methods which the bank does 
+not have access to. Within the bank, the categorization and tabulation of customer satisfaction 
+levels is performed manually, with results documented on Excel spreadsheets. This laborious 
+process is error-prone and hinders the generation of timely customer satisfaction updates, 
+typically limited to a quarterly frequency. <br>
 
-By implementing this comprehensive NLP and NLU-based analysis system on their customer interaction dialog data, the bank will be able to use a data-driven approach to gain deep insights into customer satisfaction, identify areas for improvement, and proactively address emerging trends and adapt quickly to changing customer needs and expectations.
-
+Hence, management would like to try using Practical Language Processing (PLP) techniques on 
+customer dialog data to: 
+- Automate the manual process of monitoring customer satisfaction levels. 
+- Identify areas where the bank is doing well or not 
+- Validate the accuracy of the existing customer satisfaction monitoring services.
+- <br>
+By implementing this PLP Analysis System, the bank will be able to take a data-driven approach 
+to gain deep insights into their customer interactions, allowing them to proactively address 
+emerging issues and adapt quickly to changing customer needs and expectations. 
+<br>
 
 <h1>Design</h1>
 <h2>Solution Blueprint</h2>
 <br>
 
 
+![PLP Solution Blueprint drawio](https://github.com/user-attachments/assets/e7bb6d58-2327-4289-b678-d548622d89c0)
 
-![PLP Solution Blueprint drawio](https://github.com/user-attachments/assets/003763ec-ec8c-4d84-9606-ae978f59a4b0)
 
 
+<h2>Dataset Preparation</h2>
+![Dataset Flow drawio](https://github.com/user-attachments/assets/3fc1cb2f-549d-4b45-881a-ad7788ce6617)
 
 
 
 <br>
 <h2>System Architecture - MVP</h2>
-![PLP Technical Architecture_MVP_halfSize](https://github.com/user-attachments/assets/4ad80282-05ed-4aec-a115-cbad88b3ee41)
-
+![PLP Technical Architecture_MVP_halfSize](https://github.com/user-attachments/assets/cd5c9b42-dc27-4568-9abc-1e43a3f4fa3e)
 
 
 
