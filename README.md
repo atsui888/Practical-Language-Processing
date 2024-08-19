@@ -19,7 +19,7 @@ Hence, management would like to try using Practical Language Processing (PLP) te
 By implementing this PLP Analysis System, the bank will be able to take a data-driven approach 
 to gain deep insights into their customer interactions, allowing them to proactively address 
 emerging issues and adapt quickly to changing customer needs and expectations. 
-<br>
+<br><br>
 
 <h1>Design</h1>
 <h2>Solution Blueprint</h2>
