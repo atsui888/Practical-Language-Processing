@@ -31,7 +31,8 @@ emerging issues and adapt quickly to changing customer needs and expectations.
 
 
 <h2>Dataset Preparation</h2>
-![Dataset Flow drawio](https://github.com/user-attachments/assets/cde5ab8e-0b13-44ee-8d5e-870e8abe14ce) 
+![Dataset Flow drawio](https://github.com/user-attachments/assets/ba6ae597-cd30-495c-bc1b-6fc5d4b47b1d)
+
 
 <br>
 <h2>System Architecture - MVP</h2>
