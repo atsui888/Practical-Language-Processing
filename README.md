@@ -13,7 +13,7 @@ typically limited to a quarterly frequency. <br>
 
 Hence, management would like to try using Practical Language Processing (PLP) techniques on customer dialog data to: 
 - Automate the manual process of monitoring customer satisfaction levels. 
-- Identify areas where the bank is doing well or not, and recommend priority
+- Identify areas where the bank is doing well or not, with system recommended prioritisation.
 - Validate the accuracy of the existing customer satisfaction monitoring services.
 - <br>
 By implementing this PLP Analysis System, the bank will be able to take a data-driven approach 
