@@ -24,6 +24,7 @@ emerging issues and adapt quickly to changing customer needs and expectations.
 <h1>Design</h1>
 <h2>Solution Blueprint - Automated Aspect Based Sentiment Analysis System</h2>
 <br>
+![PLP Solution Blueprint drawio](https://github.com/user-attachments/assets/4c44a587-8efa-4c51-b3af-569ee370bab8)
 
 
 
