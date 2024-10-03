@@ -26,7 +26,7 @@ emerging issues and adapt quickly to changing customer needs and expectations.
 <br>
 
 
-![PLP Solution Blueprint drawio](https://github.com/user-attachments/assets/b7680f52-8d34-4b3f-a47b-662b8932e4a3)
+
 
 
 
