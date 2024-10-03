@@ -35,7 +35,7 @@ emerging issues and adapt quickly to changing customer needs and expectations.
 
 
 <h2>Dataset Preparation</h2>
-![Dataset Flow drawio](https://github.com/user-attachments/assets/ba6ae597-cd30-495c-bc1b-6fc5d4b47b1d)
+
 
 
 <br>
