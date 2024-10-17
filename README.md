@@ -29,7 +29,7 @@ emerging issues and adapt quickly to changing customer needs and expectations.
 
 
 <h2>Model Training Pipeline</h2>
-![02 Model Training Flow drawio](https://github.com/user-attachments/assets/43e644b1-9ae2-4e54-8515-90b6863cf2df)
+
 
 
 
