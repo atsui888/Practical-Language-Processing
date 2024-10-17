@@ -24,7 +24,7 @@ emerging issues and adapt quickly to changing customer needs and expectations.
 <h1>Design</h1>
 <h2>Solution - Automated Topic Sentiment Analysis System</h2>
 
-![01 PLP Automated Topic Sentiment Solution Blueprint drawio](https://github.com/user-attachments/assets/dc576672-92b3-4be0-8a40-6ec865a30fc6)
+
 
 
 <h2>Model Training Pipeline</h2>
