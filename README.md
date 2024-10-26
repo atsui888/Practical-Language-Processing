@@ -36,7 +36,7 @@ The system identifies important topics from customer dialog, classifies the sent
 
 <h2>Dashboard</h2>
 
-![image](https://github.com/user-attachments/assets/c6313435-00db-47b8-a2a2-d74b89294111)
+
 
 
 <br>
