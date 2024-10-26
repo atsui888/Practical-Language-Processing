@@ -1,0 +1,48 @@
+pypjupyterlab 4.2.5
+ipywidgets 8.1.5
+
+torch 2.4.1
+
+datasets 3.0.0
+transformers 4.44.2
+accelerate 0.34.2
+gradio 4.44.0
+evaluate 0.4.3
+
+zstandard 0.23.0
+psutil 6.0.0
+
+# ================================================================
+# spacy downgrades numpy from 2.1.1 to 1.26.4
+# this may impact other packages above.
+# if any issues discovered, then it may be better to rebuilt into
+# 2 envs (one for the above and another one specifically for spacy)
+
+# spacy 3.7.6
+
+# python -m spacy download en_core_web_sm
+# ================================================================
+
+soundfile 0.12.1
+librosa 0.10.2.post1
+gpt4all 2.8.2
+
+
+# https://github.com/modAL-python/modAL
+pip install git+https://github.com/modAL-python/modAL.git
+
+bertopic 0.16.3
+
+textblob 0.18.0.post0
+
+openai 1.51.2
+python-dotenv 1.0.1
+openpyxl 3.1.5
+
+duckdb 1.1.2
+
+seaborn 0.13.2
+
+streamlit 1.39.0
+
+seems like plotly 5.24.1 was installed by something above.
