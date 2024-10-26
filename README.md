@@ -19,6 +19,8 @@ Hence, management would like to try using Practical Language Processing (PLP) te
 By implementing this PLP Analysis System, the bank will be able to take a data-driven approach 
 to gain deep insights into their customer interactions, allowing them to proactively address 
 emerging issues and adapt quickly to changing customer needs and expectations. 
+
+The system identifies important topics from customer dialog, classifies the sentiment polarity and also provides 2 metrics: Net Promoter Score and Customer Satisfaction Score.
 <br><br>
 
 <h1>Design</h1>
@@ -31,6 +33,10 @@ emerging issues and adapt quickly to changing customer needs and expectations.
 
 ![02 Model Training Flow drawio](https://github.com/user-attachments/assets/a4846064-0eb0-4845-a780-e318b32de22f)
 
+
+<h2>Dashboard</h2>
+
+![image](https://github.com/user-attachments/assets/c6313435-00db-47b8-a2a2-d74b89294111)
 
 
 <br>
