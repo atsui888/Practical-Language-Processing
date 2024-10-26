@@ -24,7 +24,7 @@ The system identifies topics from customer dialog, identifies the product and us
 <br><br>
 
 <h1>Design</h1>
-<h2>Solution - Automated Dialog Analysis System</h2>
+<h2>Solution - Automated Customer Dialog Analysis System</h2>
 
 ![01 PLP Automated Topic Sentiment Solution Blueprint drawio](https://github.com/user-attachments/assets/b09e0531-6e01-4bd6-9574-ad270fadf71f)
 
