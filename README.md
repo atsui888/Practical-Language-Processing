@@ -30,6 +30,8 @@ The system identifies topics from customer dialog, identifies the product and us
 
 From Dialog:<br>
 ![image](https://github.com/user-attachments/assets/2df0919d-2be2-4274-ae5f-ab34c5e201a0)
+<br>
+The Dialog Analysis Application uses 4 different techniques to identify key customer topics, ranks them by customer sentiment and relevant importance metrics for each topic, and also calculates the bank's overall NPS and CSAT scores. 
 
 
 
