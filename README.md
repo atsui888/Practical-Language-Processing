@@ -41,6 +41,7 @@ The system identifies important topics from customer dialog, classifies the sent
 
 ![image](https://github.com/user-attachments/assets/3a1e5174-fa5e-4740-ab1c-b92ae79e9bd7)
 
+![image](https://github.com/user-attachments/assets/a9d9f108-0867-4002-9c09-f23bf016837c)
 
 
 <br>
