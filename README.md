@@ -20,7 +20,7 @@ By implementing this PLP Analysis System, the bank will be able to take a data-d
 to gain deep insights into their customer interactions, allowing them to proactively address 
 emerging issues and adapt quickly to changing customer needs and expectations. 
 
-The system identifies important topics from customer dialog, classifies the sentiment polarity and also provides 2 metrics: Net Promoter Score and Customer Satisfaction Score.
+The system identifies topics from customer dialog, identifies the product and usage areas the bank is doing well (or not), and prioritises them based on a relevant importance metric so that the bank can make a data-driven decision on intervention initiatives. In addition to that, from analysis of customer dialog, the application also provides bank wide metrics like Net Promoter Score (NPS) and Customer Satisfaction Ratio (CSAT) for the bank to have an overall sense of their standing in their customers' eyes.
 <br><br>
 
 <h1>Design</h1>
