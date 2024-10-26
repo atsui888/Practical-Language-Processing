@@ -26,10 +26,12 @@ The system identifies important topics from customer dialog, classifies the sent
 <h1>Design</h1>
 <h2>Solution - Automated Topic Sentiment Analysis System</h2>
 
+![01 PLP Automated Topic Sentiment Solution Blueprint drawio](https://github.com/user-attachments/assets/b09e0531-6e01-4bd6-9574-ad270fadf71f)
 
 
 <h2>Model Training Pipeline</h2>
 
+![02 Model Training Flow drawio](https://github.com/user-attachments/assets/11c7b045-6d90-495c-89a6-9571e095516a)
 
 
 
