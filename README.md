@@ -1,7 +1,7 @@
 # Practical-Language-Processing
 <b>Boosting Customer Satisfaction via Practical Language Processing on Bank Call Centre Customer Dialog Data</b><br> 
 Masters of Technology in Artificial Intelligence (National University of Singapore - ISS)<br> 
-Practice Module 4 (WIP)<br>
+Practice Module 4 <br>
 
 <h1>Overview</h1>
 Over the last few years, the bank has been executing its strategy of customer centricity and it has been rewarded with excellent financial results and industry accolades. To monitor the 
