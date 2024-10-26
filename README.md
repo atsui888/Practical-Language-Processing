@@ -28,7 +28,6 @@ The system identifies important topics from customer dialog, classifies the sent
 
 ![01 PLP Automated Topic Sentiment Solution Blueprint drawio](https://github.com/user-attachments/assets/3ff79379-0770-4bbf-b540-60d4c78b42eb)
 
-
 <h2>Model Training Pipeline</h2>
 
 ![02 Model Training Flow drawio](https://github.com/user-attachments/assets/a4846064-0eb0-4845-a780-e318b32de22f)
@@ -37,6 +36,8 @@ The system identifies important topics from customer dialog, classifies the sent
 <h2>Dashboard</h2>
 
 ![image](https://github.com/user-attachments/assets/c989101b-6c13-4ef4-a05e-f990a67c6dd3)
+
+![image](https://github.com/user-attachments/assets/3a1e5174-fa5e-4740-ab1c-b92ae79e9bd7)
 
 
 
