@@ -28,7 +28,7 @@ The system identifies topics from customer dialog, identifies the product and us
 
 ![01 PLP Automated Topic Sentiment Solution Blueprint drawio](https://github.com/user-attachments/assets/b09e0531-6e01-4bd6-9574-ad270fadf71f)
 
-From Dialog ... <br>
+From Example Dialog like this ... <br>
 ![image](https://github.com/user-attachments/assets/2df0919d-2be2-4274-ae5f-ab34c5e201a0)
 <br>
 the Dialog Analysis Application uses 4 different techniques to 
