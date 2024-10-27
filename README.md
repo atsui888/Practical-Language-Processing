@@ -60,3 +60,5 @@ the Dialog Analysis Application uses 4 different techniques to
 
 <br>
 <br>
+<h2>Others</h2>
+Project Report and Code can be found in a subfolder of this repo. <br>Video can be accessed on youtube at this link: https://youtu.be/n5hAlZmD0d0 
