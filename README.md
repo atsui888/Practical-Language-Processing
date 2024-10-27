@@ -55,7 +55,8 @@ the Dialog Analysis Application uses 4 different techniques to
 
 <br>
 <h2>System Architecture - MVP</h2>
-  
+  ![03 PLP Technical Architecture_MVP drawio](https://github.com/user-attachments/assets/49d5ae64-45ad-459f-92f5-372e40232d7b)
+
 
 <br>
 <br>
