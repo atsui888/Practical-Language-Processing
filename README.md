@@ -55,7 +55,7 @@ the Dialog Analysis Application uses 4 different techniques to
 
 <br>
 <h2>System Architecture - MVP</h2>
-![PLP Technical Architecture_MVP_halfSize](https://github.com/user-attachments/assets/db0ebbfe-360d-40e6-835b-39e671c66bd6)  
+  
 
 <br>
 <br>
