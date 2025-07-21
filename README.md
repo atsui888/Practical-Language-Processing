@@ -15,7 +15,7 @@ Hence, management would like to try using Practical Language Processing (PLP) te
 - Automate the manual process of monitoring customer satisfaction levels. 
 - Identify areas where the bank is doing well or not, with system recommended prioritisation.
 - Validate the accuracy of the existing customer satisfaction monitoring services.
-- <br>
+<br>
 By implementing this PLP Analysis System, the bank will be able to take a data-driven approach 
 to gain deep insights into their customer interactions, allowing them to proactively address 
 emerging issues and adapt quickly to changing customer needs and expectations. 
